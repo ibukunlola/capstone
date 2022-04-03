@@ -1,7 +1,6 @@
 # capstone
-Final year thesis: Measuring the Economic Impact of Nigeria’s Exchange Control Policies
-
+Senior Thesis: AN IMPACT EVALUATION OF NIGERIA’S INVESTORS AND EXPORTERS FOREX WINDOW
 ## Abstract
-The purpose of this Capstone project is to explore the impact of Nigeria’s exchange control policies on economic development. A lot of developing countries employ trade restrictions for several reasons including strengthening domestic industries and the local currency, encouraging exports, and discouraging excessive imports. Nigeria is not exempt from this phenomenon as it has employed non-tariff trade barriers such as currency and capital controls, which are the areas of focus of the Capstone project. By the end of the Capstone project, I aim to come closer to answering the question: How have exchange controls affected economic growth and development in Nigeria? I will conduct an empirical analysis using synthetic interventions to quantify the effect of exchange controls, as measured by an exchange controls index, on economic indicators that will be specified in the future such as GDP, inequality, and domestic businesses’ revenue.
+This paper explores the economic impact of Nigeria’s Investors and Exporters' Foreign Exchange window. Developing countries often employ foreign exchange restrictions for various reasons, such as strengthening domestic industries and the local currency, encouraging exports, and discouraging excessive imports. Nigeria is not exempt from this phenomenon, as evidenced by the launch of a new foreign exchange window for Investors, Importers, and end-users (IEFX Window) by the Central Bank of Nigeria (CBN). I use synthetic control to estimate the effect of the IEFX window on foreign direct investment (FDI) as an economic development indicator. The results suggest a positive impact of the IEFX window on FDI, with the more modest model showing that Nigeria had 72% more FDI per capita in Nigeria than its counterfactual in 2019.
 	
-Keywords: trade economics, development, causal inference, Nigeria, impact evaluation.
+*Keywords:* synthetic controls, impact evaluation, Nigeria, trade economics, development, causal inference.
